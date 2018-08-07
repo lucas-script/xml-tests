@@ -2,7 +2,7 @@
 <ans:mensagemTISS xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ans.gov.br/padroes/tiss/schemas http://www.ans.gov.br/padroes/tiss/schemas/tissV3_02_00.xsd" xmlns:ans="http://www.ans.gov.br/padroes/tiss/schemas">
     <ans:cabecalho>
         <ans:identificacaoTransacao>
-            <ans:tipoTransacao>ASDF</ans:tipoTransacao>
+            <ans:tipoTransacao>JKLJKL</ans:tipoTransacao>
             <ans:sequencialTransacao>999999</ans:sequencialTransacao>
             <ans:dataRegistroTransacao>2018-05-07</ans:dataRegistroTransacao>
             <ans:horaRegistroTransacao>15:17:07</ans:horaRegistroTransacao>
@@ -29,7 +29,7 @@
                     <ans:dadosAutorizacao>
                         <ans:numeroGuiaOperadora>123123123123</ans:numeroGuiaOperadora>
                         <ans:dataAutorizacao>2018-04-25</ans:dataAutorizacao>
-                        <ans:senha>ASDFASDF</ans:senha>
+                        <ans:senha>JKLJKL</ans:senha>
                     </ans:dadosAutorizacao>
                     <ans:dadosBeneficiario>
                         <ans:numeroCarteira>123123123123123</ans:numeroCarteira>
@@ -38,13 +38,13 @@
                     </ans:dadosBeneficiario>
                     <ans:dadosSolicitante>
                         <ans:contratadoSolicitante>
-                            <ans:codigoPrestadorNaOperadora>12312312312123</ans:codigoPrestadorNaOperadora>
-                            <ans:nomeContratado>ASDFASDFASDFASDFASDFSDASDF</ans:nomeContratado>
+                            <ans:codigoPrestadorNaOperadora>345345</ans:codigoPrestadorNaOperadora>
+                            <ans:nomeContratado>JKLJKL</ans:nomeContratado>
                         </ans:contratadoSolicitante>
                         <ans:profissionalSolicitante>
-                            <ans:nomeProfissional>ASDFASDFASDFASDDFDASDF</ans:nomeProfissional>
-                            <ans:conselhoProfissional>99999</ans:conselhoProfissional>
-                            <ans:numeroConselhoProfissional>9999999999999</ans:numeroConselhoProfissional>
+                            <ans:nomeProfissional>JKLJKL</ans:nomeProfissional>
+                            <ans:conselhoProfissional>345</ans:conselhoProfissional>
+                            <ans:numeroConselhoProfissional>345345</ans:numeroConselhoProfissional>
                             <ans:UF>99</ans:UF>
                             <ans:CBOS>9999999</ans:CBOS>
                         </ans:profissionalSolicitante>
@@ -55,7 +55,7 @@
                     </ans:dadosSolicitacao>
                     <ans:dadosExecutante>
                         <ans:contratadoExecutante>
-                            <ans:codigoPrestadorNaOperadora>99999999999999999</ans:codigoPrestadorNaOperadora>
+                            <ans:codigoPrestadorNaOperadora>345345</ans:codigoPrestadorNaOperadora>
                             <ans:nomeContratado>ASDFASDF ASDFASDF ASDFASDF</ans:nomeContratado>
                         </ans:contratadoExecutante>
                         <ans:CNES>9999999999</ans:CNES>
